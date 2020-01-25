@@ -1,30 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: January 24, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Start #100DaysOfCode challenge.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Right now I'm working the Ruby section of the technical curriculum of Microverse, feeling a little stuck with ruby... For context, this is my second month learning how to code. I started my carrer as a __**Web Developer Fullstack**__ on November 25, 2019. Just finish the HTML & CSS3 section and as I said right now I'm in the Ruby part. Started this challenge with this goals in mind:
 
-**Link to work:** [Calculator App](http://www.example.com)
+- Practice Ruby
+- Make coding a daily habit
+- Be a better programmer
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+This statements are going to change over the 100 days. Right now I just want to get better at Ruby. I'm working with the curriculum at Microverse and the Ruby track at exercism.io... by the way have you had the opportunity to talk to VGoff
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [100DaysOfCode/jubaan](https://github.com/jubaan/100-days-of-code)
