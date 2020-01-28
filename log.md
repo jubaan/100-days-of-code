@@ -33,3 +33,13 @@ This statements are going to change over the 100 days. Right now I just want to 
 **Thoughts:** Didn't do much coding today, just a small exercise. Also this past week I worked on the ["enumerable methods"](https://www.theodinproject.com/courses/ruby-programming/lessons/advanced-building-blocks) of The Odin Project... I haven't quite understand how each method works. I'm using both calls to procs and yield but havent really figured out how to make **my_method** be an exact clone of the Ruby methods.
 
 **Link to work:** [@AnoverosJulio](https://twitter.com/AnoverosJulio/status/1221659460357120000)
+
+
+
+### Day 3: January 27, 2020
+
+**Today's Progress**: I was able to understand better how the enumerable methods work
+
+**Thoughts:** Advanced on the [corrections](https://github.com/jubaan/m__advanced-building-blocks__enumerable-methods/pull/1) of The Odin Project. [More Info](https://www.theodinproject.com/courses/ruby-programming/lessons/advanced-building-blocks)
+
+**Link to work:** [@AnoverosJulio](https://twitter.com/AnoverosJulio/status/1222016827141701634)
