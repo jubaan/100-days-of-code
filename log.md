@@ -46,12 +46,22 @@ This statements are going to change over the 100 days. Right now I just want to 
 
 
 
-### Day 3: January 27, 2020
+### Day 4: January 28, 2020
 
 **Today's Progress**: Finish with my second draft of the enumerable projects
 
 **Thoughts:** Second draft ready of the Enumerable Methods [corrections](https://github.com/jubaan/m__advanced-building-blocks__enumerable-methods/pull/1) of The Odin Project. [More Info](https://www.theodinproject.com/courses/ruby-programming/lessons/advanced-building-blocks).
 
-Not about coding, but I noticed today that my fast log on twitter started from day 1 and my log on github on day 0, so it kind of looks I have one day missing... but I'm up to date.
+Not about coding, but I noticed today that my fast log on twitter started from day 1 and my log on github on day 0, so it kind of looks I have one day missing... but I'm up to
+
+**Link to work:** Repo on github [@jubaan](https://github.com/jubaan/m__advanced-building-blocks__enumerable-methods)
+
+### Day 5: January 29, 2020
+
+**Today's Progress**: Got approved my "Enumerable Methods" project
+
+**Thoughts:** Project approved [corrections](https://github.com/jubaan/m__advanced-building-blocks__enumerable-methods/pull/1) of The Odin Project. [More Info](https://www.theodinproject.com/courses/ruby-programming/lessons/advanced-building-blocks). I also did some exercism.io exercises but haven been reviewed so I cannot advanced on them.
+
+I helped 3 persons today with their own projects, and this is making me feel useful, also is giving me the oportunity to refresh my knowledge in HTML & CSS.
 
 **Link to work:** Repo on github [@jubaan](https://github.com/jubaan/m__advanced-building-blocks__enumerable-methods)
