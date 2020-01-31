@@ -1,10 +1,12 @@
 # 100 Days Of Code - Log
 
+## Daily Log
+
 ### Day 0: January 24, 2020
 
 **Today's Progress**: Start #100DaysOfCode challenge.
 
-**Thoughts:** Right now I'm working the Ruby section of the technical curriculum of Microverse, feeling a little stuck with ruby... For context, this is my second month learning how to code. I started my carrer as a __**Web Developer Fullstack**__ on November 25, 2019. Just finish the HTML & CSS3 section and as I said right now I'm in the Ruby part. Started this challenge with this goals in mind:
+**Thoughts:** Right now I'm working the Ruby section of the technical curriculum of Microverse, feeling a little stuck with ruby... For context, this is my second month learning how to code. I started my carrer as a ****Web Developer Fullstack**** on November 25, 2019. Just finish the HTML & CSS3 section and as I said right now I'm in the Ruby part. Started this challenge with this goals in mind:
 
 - Practice Ruby
 - Make coding a daily habit
@@ -14,8 +16,6 @@ This statements are going to change over the 100 days. Right now I just want to 
 
 **Link to work:** [100DaysOfCode/jubaan](https://github.com/jubaan/100-days-of-code)
 
-
-
 ### Day 1: January 25, 2020
 
 **Today's Progress**: I've been approved two exercises from exercism.io
@@ -23,8 +23,6 @@ This statements are going to change over the 100 days. Right now I just want to 
 **Thoughts:** Lovin exercism.io and the feedback of my mentor [@kotp](https://twitter.com/kotp). Ruby is still hard to understand for me, but I think also is getting easier to read the documentation and understand what the code examples suppose to do. My technical skill on ruby are still poor but I'm commited to do at least 1hr a day of coding exercises and continue studying the Microverse Ruby section (...at least 8 hrs daily).
 
 **Link to work:** [Ruby track: Two-Fer](https://exercism.io/tracks/ruby/exercises/two-fer/solutions/f33fba8332c34e42ac55be89483854fb) from [exercism.io](https://exercism.io/)
-
-
 
 ### Day 2: January 26, 2020
 
@@ -34,8 +32,6 @@ This statements are going to change over the 100 days. Right now I just want to 
 
 **Link to work:** [@AnoverosJulio](https://twitter.com/AnoverosJulio/status/1221659460357120000)
 
-
-
 ### Day 3: January 27, 2020
 
 **Today's Progress**: I was able to understand better how the enumerable methods work
@@ -43,8 +39,6 @@ This statements are going to change over the 100 days. Right now I just want to 
 **Thoughts:** Advanced on the [corrections](https://github.com/jubaan/m__advanced-building-blocks__enumerable-methods/pull/1) of The Odin Project. [More Info](https://www.theodinproject.com/courses/ruby-programming/lessons/advanced-building-blocks)
 
 **Link to work:** [@AnoverosJulio](https://twitter.com/AnoverosJulio/status/1222016827141701634)
-
-
 
 ### Day 4: January 28, 2020
 
@@ -56,8 +50,6 @@ Not about coding, but I noticed today that my fast log on twitter started from d
 
 **Link to work:** Repo on github [@jubaan](https://github.com/jubaan/m__advanced-building-blocks__enumerable-methods)
 
-
-
 ### Day 5: January 29, 2020
 
 **Today's Progress**: Got approved my "Enumerable Methods" project
@@ -68,8 +60,6 @@ I helped 3 persons today with their own projects, and this is making me feel use
 
 **Link to work:** Repo on github [@jubaan](https://github.com/jubaan/m__advanced-building-blocks__enumerable-methods)
 
-
-
 ### Day 6: January 31, 2020
 
 **Today's Progress**: No progress
@@ -78,12 +68,10 @@ I helped 3 persons today with their own projects, and this is making me feel use
 
 **Link to work:** I'm on this section of the course [@jubaan](https://launchschool.com/lessons/7284d88d/assignments/3ccedec0)
 
-
-
 ### Day 7: January 31, 2020
 
 **Today's Progress**: Majaro configuration
 
-**Thoughts:** Still going through the [Launch School](https://launchschool.com/) prep course with ruby
+**Thoughts:** Working on Manjaro. Still going through the [Launch School](https://launchschool.com/) prep course with ruby
 
 **Link to work:** [@jubaan](https://launchschool.com/lessons/)
