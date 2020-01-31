@@ -56,6 +56,8 @@ Not about coding, but I noticed today that my fast log on twitter started from d
 
 **Link to work:** Repo on github [@jubaan](https://github.com/jubaan/m__advanced-building-blocks__enumerable-methods)
 
+
+
 ### Day 5: January 29, 2020
 
 **Today's Progress**: Got approved my "Enumerable Methods" project
@@ -65,3 +67,23 @@ Not about coding, but I noticed today that my fast log on twitter started from d
 I helped 3 persons today with their own projects, and this is making me feel useful, also is giving me the oportunity to refresh my knowledge in HTML & CSS.
 
 **Link to work:** Repo on github [@jubaan](https://github.com/jubaan/m__advanced-building-blocks__enumerable-methods)
+
+
+
+### Day 6: January 31, 2020
+
+**Today's Progress**: No progress
+
+**Thoughts:** had some issues with ubunto so I decided to change to MANJARO, is not about coding but yesterday was impossible for my to work. I only read the documentation for [Launch School](https://launchschool.com/)
+
+**Link to work:** I'm on this section of the course [@jubaan](https://launchschool.com/lessons/7284d88d/assignments/3ccedec0)
+
+
+
+### Day 7: January 31, 2020
+
+**Today's Progress**: Majaro configuration
+
+**Thoughts:** Still going through the [Launch School](https://launchschool.com/) prep course with ruby
+
+**Link to work:** [@jubaan](https://launchschool.com/lessons/)
